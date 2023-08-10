@@ -1,8 +1,0 @@
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\bin\Debug\Variable og datatyper opgave 1.exe.config
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\bin\Debug\Variable og datatyper opgave 1.exe
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\bin\Debug\Variable og datatyper opgave 1.pdb
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\obj\Debug\Variable og datatyper opgave 1.csproj.AssemblyReference.cache
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\obj\Debug\Variable og datatyper opgave 1.csproj.SuggestedBindingRedirects.cache
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\obj\Debug\Variable og datatyper opgave 1.csproj.CoreCompileInputs.cache
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\obj\Debug\Variable og datatyper opgave 1.exe
-C:\Users\zbc23jakl\source\repos\Variable og datatyper opgave 1\Variable og datatyper opgave 1\obj\Debug\Variable og datatyper opgave 1.pdb
